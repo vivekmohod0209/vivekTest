@@ -8,7 +8,6 @@ public static void main(String[] args) {
 	int c = x++;
 	int d = (a<b)?(b<c)?a:(b<c)?b:c:b;
 	System.out.println(d);
-	System.out.println(a);
 	
 }
 }
